@@ -1,0 +1,27 @@
+Test 1
+
+Scenario Type: Static
+Test Description: Drone A is moving, Drone B is stationary, and they collide.
+
+Algorithm: PLACEHOLDER
+
+A's Initial Velocity: 4 m/s
+B's Initial Velocity: 4 m/s
+
+A's Initial Point Distance: (12 m, 18 m, 5.25 m)
+B's Initial Point Distance: (0 m, 0 m, 4 m)
+
+A's Travel Displacement: (3.11955 m, 4.66197 m, 4.15472 m)
+B's Travel Displacement: (4 m, 6 m, 4.20402 m)
+
+A's Avoidance Radius: PLACEHOLDER
+B's Avoidance Radius: PLACEHOLDER
+
+A's Closest Threat: PLACEHOLDER
+B's Closest Threat: PLACEHOLDER
+
+A's Lost Time: 6 s
+B's Lost Time: 9 s
+
+A's Response Time: PLACEHOLDER
+B's Response Time: PLACEHOLDER
